@@ -113,19 +113,20 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:016668_0000_0F9D7329863395E0"/>
-            <pb facs="tcp:016668_0001_0F9D732A273B07A0" rendition="simple:additions"/>
+            <pb facs="unknown:016668_0000_0F9D7329863395E0"/>
+            <pb facs="unknown:016668_0001_0F9D732A273B07A0"
+                rendition="simple:additions"/>
             <p>THE MOTLEY ASSEMBLY, A FARCE.</p>
             <p>PUBLISHED For the ENTERTAINMENT Of the CURIOUS.</p>
             <p>BOSTON: Printed and Sold by <hi>Nathaniel Coverly,</hi> in NEWBURY STREET, M, DCC, LXXIX.</p>
          </div>
          <div type="advertisement">
-            <pb facs="tcp:016668_0002_0F9D732AEB965340"/>
+            <pb facs="unknown:016668_0002_0F9D732AEB965340"/>
             <head>ADVERTISEMENT.</head>
             <p>THE following was wrote at the request, and intended only for the amusement of two or three particular friends, whose importunity has at length prevailed with the Author to consent to publish it, even against his own inclination, as nothing was more remote from his design when he first undertook it:—With regard to the characters, the impartial Public will determine as they please; If applicable to any particular persons the praise or blame is theirs: If they suit nobody—The Author would inform the candid Reader that he copied from such characters as were exhibited by his friends; who were satisfied with the likeness, and are only answerable to the Public whether they exist or not.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:016668_0003_0F9D732C68795FB8"/>
+            <pb facs="unknown:016668_0003_0F9D732C68795FB8"/>
             <head>DRAMATIS PERSONAE,</head>
             <list>
                <head>MEN.</head>
@@ -160,7 +161,7 @@
       </front>
       <body>
          <div type="scene">
-            <pb facs="tcp:016668_0004_0F9D732D272560A8"/>
+            <pb facs="unknown:016668_0004_0F9D732D272560A8"/>
             <head>SCENE, At the House of Mrs. FLOURISH.</head>
             <stage>
                <hi>Enter</hi> Mrs. FLOURISH and Esq. RUNT.</stage>
@@ -210,7 +211,7 @@
                <p>To keep him in countenance I suppose;— well what appearance do they make, compared to our assemblies in the seige?</p>
             </sp>
             <sp>
-               <pb n="6" facs="tcp:016668_0005_0F9D732DED5262F0"/>
+               <pb n="6" facs="unknown:016668_0005_0F9D732DED5262F0"/>
                <speaker>Runt.</speaker>
                <p>I wish you had been there the last evening madam, only to have seen the contrast.</p>
             </sp>
@@ -239,7 +240,7 @@
                <p>The <hi>French!</hi> The cursed <hi>French!</hi> Mr. <hi>Runt,</hi> are the cause of all our misery:—This Rebellion would have been crush'd long before this, but for them—We could not have held out much longer, when they step'd in; but must have sub<g ref="char:EOLhyphen"/>mitted to such terms as our gracious sovereign would have conde<g ref="char:EOLhyphen"/>scended to offer; which all who know his goodness Mr. <hi>Runt,</hi> are convinced would have been just and merciful</p>
             </sp>
             <sp>
-               <pb n="7" facs="tcp:016668_0006_0F9D732EA9D1B040"/>
+               <pb n="7" facs="unknown:016668_0006_0F9D732EA9D1B040"/>
                <speaker>Runt.</speaker>
                <p>Your observations are very just madam, and I am entirely of your opinion:—And as to the <hi>French</hi>—every body says they are a treacherous crew:—I know when I was in <hi>England</hi> it was the general opinion there; and that they never would fight<g ref="char:punc">▪</g> and I don't despair but Old <hi>England</hi> will give them a drub<g ref="char:EOLhyphen"/>bing yet.—But as to us, I think we are in a worse box than ever;—out of the frying-pan, into the fire; and all this for a trifling duty on tea.</p>
             </sp>
@@ -264,7 +265,7 @@
             <sp>
                <speaker>Runt,</speaker>
                <p>I observ'd Mrs.—refuss'd to dance; but did not know
-<pb n="8" facs="tcp:016668_0007_0F9D732F69F597A8"/>
+<pb n="8" facs="unknown:016668_0007_0F9D732F69F597A8"/>
 the reason before:—Well I think she is quite right.—But Miss <hi>Flourish</hi> how comes it that you are so anxious to go?</p>
             </sp>
             <sp>
@@ -314,7 +315,7 @@ the reason before:—Well I think she is quite right.—But Miss <hi>Flourish</h
                <p>Take care girls what you say now:—Capt. <hi>Aid</hi> is coming in;—remember he is an officer in the <hi>reb,</hi> I had like to have spoke treason—in our army.</p>
             </sp>
             <stage>
-               <pb n="9" facs="tcp:016668_0008_0F9D7330274C5938"/>
+               <pb n="9" facs="unknown:016668_0008_0F9D7330274C5938"/>
                <hi>Enter</hi> Aid—<hi>a little gay.</hi>
             </stage>
             <sp>
@@ -375,7 +376,7 @@ the reason before:—Well I think she is quite right.—But Miss <hi>Flourish</h
             <sp>
                <speaker>Aid.</speaker>
                <p>Still gallant Mr. <hi>Runt</hi>:—But the ladies must pardon me if I cannot readily assent to the justice of your rebuke; when I assure them, that I think such charms as theirs, would justify my
-<pb n="10" facs="tcp:016668_0009_0F9D73312D809328"/>
+<pb n="10" facs="unknown:016668_0009_0F9D73312D809328"/>
 in attention to every other object, but what concerns my General, or my country.</p>
             </sp>
             <sp>
@@ -426,7 +427,7 @@ Knowing my inclina<g ref="char:EOLhyphen"/>tion, and particular attention to ple
                <speaker>Miss <hi>Taxall.</hi>
                </speaker>
                <p>I think Mamma that <hi>Tab</hi> is to be commended for
-<pb n="11" facs="tcp:016668_0010_0F9D73332DAFB1A8"/>
+<pb n="11" facs="unknown:016668_0010_0F9D73332DAFB1A8"/>
 her spirit; I'm sure I should rather starve than take in work for any body.</p>
             </sp>
             <sp>
@@ -476,7 +477,7 @@ her spirit; I'm sure I should rather starve than take in work for any body.</p>
             <sp>
                <speaker>Miss <hi>B</hi>—.</speaker>
                <p>Why Ma'am! He was urged to it, and as it was not
-<pb n="12" facs="tcp:016668_0011_0F9D7333E8CC7540"/>
+<pb n="12" facs="unknown:016668_0011_0F9D7333E8CC7540"/>
 like taking up arms; he thought it best to accept.—</p>
             </sp>
             <stage>Enter Turncoat.</stage>
@@ -526,7 +527,7 @@ like taking up arms; he thought it best to accept.—</p>
                <speaker>Mrs. <hi>Bubble.</hi>
                </speaker>
                <p>No! that I shan't,—Yes I will too, and in my worst gown—But I am determined not to dance—Yes I will dance a minuet on purpose to mortify you by my dress; why Mr. <hi>Bubble</hi>! how can you ask me to go to the assembly when you know I have got nothing fit to wear? And yet you have refused to buy for me the genteelest, prettiest thing I ever saw—and every body says it is
-<pb n="13" facs="tcp:016668_0012_0F9D7334A67AE808"/>
+<pb n="13" facs="unknown:016668_0012_0F9D7334A67AE808"/>
 exceeding cheap for paper money;—only a thousand dollars.—</p>
             </sp>
             <sp>
@@ -577,7 +578,7 @@ exceeding cheap for paper money;—only a thousand dollars.—</p>
                <p>Did you by Heaven? Well how was it received?</p>
             </sp>
             <sp>
-               <pb n="14" facs="tcp:016668_0013_0F9D73356A5645A8"/>
+               <pb n="14" facs="unknown:016668_0013_0F9D73356A5645A8"/>
                <speaker>Careless,</speaker>
                <p>As I intended; faith!—it operated so violently on <hi>Tab,</hi> that I expected nothing short of an hysteric fit; her efforts to contain her rage must have been excessive, if one may judge by her horribly distorted countenance.</p>
             </sp>
@@ -604,7 +605,7 @@ exceeding cheap for paper money;—only a thousand dollars.—</p>
             <sp>
                <speaker>Careless,</speaker>
                <p>Ridiculous, or not; was I to continue here for anytime I should not hesitate to treat them with the neglect and contempt they deserve. Such a conduct invariably pursued, by those whom they
-<pb n="15" facs="tcp:016668_0014_0F9D733627746EF0"/>
+<pb n="15" facs="unknown:016668_0014_0F9D733627746EF0"/>
 to despise, would soon effect a great change in their conversation and conduct.</p>
             </sp>
             <sp>
